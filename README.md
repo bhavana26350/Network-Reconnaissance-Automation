@@ -59,5 +59,6 @@ You should run this tool on a system (like Kali Linux) that has the underlying C
 ## Screenshots
 Visual overview of the tool’s dashboard and scan results.
 ![Dashboard](images/dashboard.png)
+
 ![Scan Results](images/scan-results.png)
 
